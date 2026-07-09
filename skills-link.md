@@ -1,6 +1,6 @@
-##project workflow
+## project workflow
 https://github.com/addyosmani/agent-skills
 
 
-##web-design
+## web-design
 https://github.com/VoltAgent/awesome-design-md
